@@ -78,9 +78,7 @@ O modelo foi avaliado utilizando as seguintes métricas:
 - F1-Score
 - Matriz de Confusão
 
-*(Atualize esta seção com os valores obtidos no seu notebook.)*
 
----
 
 ## 👩‍💻 Autora
 
